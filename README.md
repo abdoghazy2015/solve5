@@ -1,1 +1,1 @@
-# solve5
+scandir("/etc");
